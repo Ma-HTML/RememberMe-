@@ -1,0 +1,12 @@
+[
+    {
+        "title": "Acheter du lait",
+        "description": "Ne pas oublier d'acheter du lait avant 18h.",
+        "status": "À faire"
+    },
+    {
+        "title": "Rendez-vous chez le médecin",
+        "description": "Consultation à 15h demain.",
+        "status": "Terminé"
+    }
+]
