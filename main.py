@@ -8,7 +8,7 @@ class RememberMe:
         self.reminders = []
         self.file_name = "reminders.json"
         self.load_reminders()
-        self.webhook_url = "https://discord.com/api/webhooks/1337936247917776939/uyT3H9Y1PcyCIu-glkvaE4S7fLjrx5F-FeGLxKxlPalspM1ao6pcWI39EJuLB01-HM5T"  # Remplacez par votre URL de webhook Discord
+        self.webhook_url = "[url]"  # Remplacez par votre URL de webhook Discord
 
     def display_main_menu(self):
         print("\n--- Menu Principal ---")
